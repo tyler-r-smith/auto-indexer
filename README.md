@@ -1,6 +1,8 @@
 # Auto Indexer
 Generates an ES module index.js file from a specified folder
 
+This was just a test for me to get used to Sanctuary and functional programing techniques. I would not recommend using this package.
+
 ```#bash
 npm i -G auto-indexer
 ```
