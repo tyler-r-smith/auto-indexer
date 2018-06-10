@@ -1,10 +1,10 @@
 {
-  "name": "Auto Indexer",
+  "name": "auto-indexer",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "watcher": "./bin.js"
+    "auto-indexer": "./bin.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
