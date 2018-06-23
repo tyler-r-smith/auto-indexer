@@ -12,7 +12,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "auto-indexer": "git+https://github.com/tyler-r-smith/auto-indexer.git",
     "chalk": "^2.4.1",
     "commander": "^2.15.1",
     "esm": "^3.0.49",
